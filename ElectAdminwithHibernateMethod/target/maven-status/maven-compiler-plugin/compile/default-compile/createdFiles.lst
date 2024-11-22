@@ -1,0 +1,6 @@
+com\dao\Candidatesdao.class
+com\entity\Candidates.class
+com\controller\Candidatescontroller.class
+com\client\Candidatesclient.class
+utility\DBConnectionUtil.class
+com\service\CandidatesService.class
